@@ -1,7 +1,8 @@
-![animate image](sprite.png)
+![SFML image](https://img.shields.io/badge/-8CC445?style=for-the-badge&logo=SFML&logoColor=white)
 # Hello World with SFML
 - Build first moving animate app
 ## Features:
+![animate image](sprite.png)
 - Move Up, Down, Left, and Right an animate.
 - Space for rotate 360 degree
 -Animate can appear with multiple state.
