@@ -1,3 +1,4 @@
+![animate image](sprite.png)
 # Hello World with SFML
 - Build first moving animate app
 ## Features:
@@ -9,10 +10,11 @@
 - Git clone repository.
 - Set SFML environment:
 [SFML](https://www.sfml-dev.org/)
+- On Mac use brew install sfml
+- Run brew info sfml   tofind where is sfml locate. My is "opt/homebrew/Cellar/sfml/2.5.1_2". Use flag -I and -L for  include and lib.
 
 - Run:
-  - g++ -c main.cpp
-  - g++ main.o -o main -lsfml-graphics -lsfml-window -lsfml-system
+  - g++ main.cpp -I/opt/homebrew/Cellar/sfml/2.5.1_2/include -L/opt/homebrew/Cellar/sfml/2.5.1_2/lib -o main -lsfml-graphics -lsfml-window -lsfml-system
   - ./main
 ## Creator:
 William Vo
