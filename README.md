@@ -1,7 +1,7 @@
+![SFML image](https://img.shields.io/badge/-8CC445?style=for-the-badge&logo=SFML&logoColor=white)
+<img src="cpp_logo.png" height="30">
 # Hello World with SFML
 - Build the first moving animate app in  
-<img src="cpp_logo.png" height="30">
-![SFML image](https://img.shields.io/badge/-8CC445?style=for-the-badge&logo=SFML&logoColor=white)
 
 ## Features:
 ![animate image](sprite.png)
